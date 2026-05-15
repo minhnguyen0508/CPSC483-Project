@@ -10,7 +10,8 @@ Using Naive Bayes, Logistic Regression, and Decision Tree to predict the effect 
 Project is submitted to Dr. Chia Huan Tsai 
 Group members: Jackson Cao, Alex Nguyen, Huy Nguyen, Minh Nguyen 
 
-## Notice: 
-To rerun the program again, you HAVE TO import the original dataset to the project folder. 
-Because all the function that is used to update the column will mess up with the original dataset
+## How to use the program: 
+1) download the dataset with the link provided 
 Original dataset can be downloaded at https://www.kaggle.com/datasets/neurocipher/digital-distraction-vs-academic-performance
+2) extract the data set in the same file directory as the jupyter notebook file 
+3) run the jupyter notebook using python environment 3.12.10
